@@ -1,24 +1,21 @@
-This is free and unencumbered software released into the public domain.
+MIT Lisansı
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Telif hakkı (c) 2030 Schwarz
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Bir kopyasını edinen herkese, ücretsiz olarak izin verilmiştir.
+Bu yazılımın ve ilişkili belge dosyalarının ("Yazılım"),
+Yazılımda kısıtlama olmaksızın, haklar dahil ancak bunlarla sınırlı olmamak üzere
+kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, alt lisanslamak ve/veya satmak
+Yazılımın kopyalarını ve Yazılımın kendilerine ait olduğu kişilere izin vermek için
+Aşağıdaki koşullara tabi olarak, bunu yapmak üzere donatılmıştır:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi tüm
+Yazılımın kopyaları veya önemli bölümleri.
 
-For more information, please refer to <https://unlicense.org>
+YAZILIM, HERHANGİ BİR TÜRDE AÇIK VEYA GARANTİ OLMADAN "OLDUĞU GİBİ" SAĞLANMAKTADIR
+ZIMNİ OLARAK, SATILABİLİRLİK GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE,
+BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME. HİÇBİR DURUMDA
+YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, ZARAR VEYA DİĞER SORUMLULUKTAN SORUMLU TUTULAMAZ
+SÖZLEŞME, HAKSIZ FİİL VEYA BAŞKA BİR ŞEKİLDE OLUŞAN SORUMLULUK,
+YAZILIMDAN VEYA YAZILIMIN KULLANIMINDAN VEYA DİĞER İŞLEMLERDEN OLUŞAN VEYA BUNLARLA İLGİLİ OLARAK
+YAZILIM.
